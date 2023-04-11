@@ -6,6 +6,7 @@ This script is used to extract copy number variations (CNVs) from BAM files and 
 
 ## **Prerequisites**
 
+This project requires Python to be installed on your system. Make sure to have Python version 3.7.4 or above installed before running the code.
 This script requires the following Python libraries :
 
     os
