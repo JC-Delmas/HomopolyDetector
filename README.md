@@ -5,7 +5,7 @@
 This script is used to extract copy number variations (CNVs) from BAM files and classify them according to their type using annotation files in BED and VCF formats.
 Prerequisites
 
-This script requires the following Python libraries to be installed:
+This script requires the following Python libraries :
 
     os
     pysam
