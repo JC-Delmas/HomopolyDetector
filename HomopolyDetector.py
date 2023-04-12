@@ -3,7 +3,7 @@ import pysam
 import pandas as pd
 import datetime as date
 
-print(f"Assurez-vous que les fichiers BAM, VCF et BED soient dans le même répertoire que le script CNVdetector.py et évitez les raccourcis.")
+print(f"Assurez-vous que les fichiers BAM, VCF et BED soient dans le même répertoire que le script HomopolyDetector.py et évitez les raccourcis.")
 
 # Vérification de l'existence du fichier de sortie
 file_name = "cnv_listing_" + date_string + ".csv"
